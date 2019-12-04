@@ -39,7 +39,7 @@ def cria_banco():
 def verify_blacklist(token):
     return token['jti'] in BLACKLIST
 
-@jwt.revoked_token_loader
+@jwt.revoked_token_loaderc
 def token_de_acesso_invalidado():
     return jsonify({'message': 'You have been logged out'})
 def cadastro():
