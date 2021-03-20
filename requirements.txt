@@ -17,7 +17,7 @@ idna==2.8
 imgkit==1.0.2
 itsdangerous==1.1.0
 jedi==0.15.1
-Jinja2==2.10.1
+Jinja2==2.11.3
 MarkupSafe==1.1.1
 parso==0.5.1
 pathtools==0.1.2
