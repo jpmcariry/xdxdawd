@@ -23,7 +23,7 @@ parso==0.5.1
 pathtools==0.1.2
 pdfcrowd==4.10.0
 Pillow==6.2.1
-Pygments==2.4.2
+Pygments==2.7.4
 PyJWT==1.7.1
 pytz==2019.1
 PyYAML==5.1.2
